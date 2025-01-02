@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
 import Todo from './Todo'; 
-import { Paper, List } from '@material-ui/core';
+import { Paper, List } from '@mui/material';
 
 class App extends React.Component{
   constructor(props){
